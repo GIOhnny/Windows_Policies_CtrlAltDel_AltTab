@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2007.09.03 22:03:28.069.cpp,C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Unit1.cpp=C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Disable.cpp</Transaction>
+    <Transaction>2007.09.04 01:09:47.109.pas,C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Unit1.pas=C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Windows Policies\Prog.pas</Transaction>
+    <Transaction>2007.09.04 01:09:47.109.dfm,C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Windows Policies\Prog.dfm</Transaction>
+    <Transaction>2007.09.04 01:09:52.000.bdsproj,C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\GIOhnny\My Documents\Borland Studio Projects\Windows Policies\Policies.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
